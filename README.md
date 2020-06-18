@@ -1,2 +1,5 @@
 # web-335
-NoSQL repository for Bellevue coursework 
+Assignments for Web 335 course 
+# contributors
+Professor Krasso - Bellevue University
+Diandra McKenzie - Bellevue University
